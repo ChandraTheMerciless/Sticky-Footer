@@ -9,6 +9,7 @@ First, let's set up the initial HTML page with some preliminary CSS!
 
 index.html file:
 
+```
 <!doctype html>
 <html>
     <head>
@@ -26,11 +27,12 @@ index.html file:
         </footer>
     </body>
 </html>
-
+```
 
 
 style.css file:
 
+```
 *{
     margin:0;
 }
@@ -54,3 +56,4 @@ footer{
     text-align:center;
     padding:5px;
 }
+```
