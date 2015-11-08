@@ -8,10 +8,18 @@ html{
 
 body{
     height:100%;
+    background-color:darkmagenta;
 }
 
 .wrapper-height{
-    min-height:100%;
+    min-height:calc(100% - 34px);
+    background-color:white;
+    font-size:30px;
+}
+
+.wrapper-height p{
+    padding-left:2em;
+    padding-top:1em;
 }
 
 footer{
