@@ -1,0 +1,23 @@
+*{
+    margin:0;
+}
+
+html{
+    height:100%;
+}
+
+body{
+    height:100%;
+}
+
+.wrapper-height{
+    min-height:100%;
+}
+
+footer{
+    /*extra styling to make footer visible*/
+    background-color:darkmagenta;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
