@@ -137,3 +137,6 @@ footer{
 # Sources
 Sticky Footer by Ryan Fait
 http://ryanfait.com/
+
+A Pen By David Conner: Pure CSS Sticky Footer
+http://codepen.io/davidicus/pen/BenLl
